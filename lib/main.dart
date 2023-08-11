@@ -6,9 +6,7 @@ import 'package:quiz_app/quiz.dart';
 void main() 
 {
   // ignore: prefer_const_constructors
-  runApp(Center(
-    
-    child: const Quiz()
-    ) 
+  runApp(Center
+  (child: const Quiz()) 
   );
 }
